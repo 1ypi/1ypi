@@ -1,10 +1,10 @@
-1ypi
+# 1ypi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Python+Developer;Cybersecurity+Enthusiast;Security+Researcher" alt="Typing SVG" />
 </div>
 
-## 🐍 About Me
+## About Me
 
 python developer, passionate about **cybersecurity** and **ethical hacking**. building security tools and exploring vulnerabilities.
 
@@ -14,14 +14,14 @@ currently_learning = "Advanced Exploit Development"
 fun_fact = "i use arch btw"
 ```
 
-## 📊 GitHub Stats
+## 📊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1ypi&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ypi&layout=compact&theme=cyberpunk"/>
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
