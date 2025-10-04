@@ -1,7 +1,7 @@
 # 1ypi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=101010&center=true&vCenter=true&width=400&lines=Python+Developer;Cybersecurity+Enthusiast;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=a4a4a4&center=true&vCenter=true&width=400&lines=Python+Developer;Cybersecurity+Enthusiast;Security+Researcher" alt="Typing SVG" />
 </div>
 
 ## About Me
