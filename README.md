@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm 1ypi
+1ypi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Python+Developer;Cybersecurity+Enthusiast;Security+Researcher" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 🐍 About Me
 
-Python developer passionate about **cybersecurity** and **ethical hacking**. I love building security tools and exploring vulnerabilities.
+python developer, passionate about **cybersecurity** and **ethical hacking**. building security tools and exploring vulnerabilities.
 
 ```python
 interests = ["Python", "Cybersecurity", "Penetration Testing", "Security Tools"]
@@ -33,5 +33,4 @@ fun_fact = "i use arch btw"
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=1ypi&color=00f7ff&style=flat-square" />
   
-  **"Security is not a product, but a process"** 🔐
 </div>
