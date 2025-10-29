@@ -1,11 +1,9 @@
 <div align="Center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 <div align="center">
 <a href="https://github.com/1ypi">
-<img src="https://github.com/1ypi/1ypi/blob/main/1ypi.gif?raw=true" width="400" style="border-radius: 15px;" />
+<img src="https://github.com/1ypi/1ypi/blob/main/1ypi.gif?raw=true" width="600" style="border-radius: 60px;" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/1ypi?label=Follow&style=social)](https://github.com/1ypi)
