@@ -1,10 +1,11 @@
 <div align="Center">
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
+<kbd>
 <div align="center">
 <a href="https://github.com/1ypi">
 <img src="https://raw.githubusercontent.com/1ypi/1ypi/main/1ypi.gif" width="600" />
 </a>
-
+</kbd>
 [![GitHub Followers](https://img.shields.io/github/followers/1ypi?label=Follow&style=social)](https://github.com/1ypi)
 [![GitHub Stars](https://img.shields.io/github/stars/1ypi?style=social)](https://github.com/1ypi)
 </div>
