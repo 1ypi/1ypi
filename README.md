@@ -51,9 +51,9 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| 1ypi's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![1ypi's Stats](https://github-readme-stats.vercel.app/api?username=1ypi&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![1ypi's Stats](https://github-readme-stats.vercel.app/api?username=1ypi&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ypi&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
@@ -69,7 +69,7 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/](https://discord.com/users/1275055573800452098)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/](https://discord.com/users/1275055573800452098)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
