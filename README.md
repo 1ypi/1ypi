@@ -2,7 +2,7 @@
 <img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 <div align="center">
 <a href="https://github.com/1ypi">
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/1ypi/1ypi/main/1ypi.gif&w=600&we" width="600" />
+<img src="https://raw.githubusercontent.com/1ypi/1ypi/main/1ypi.gif" width="600" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/1ypi?label=Follow&style=social)](https://github.com/1ypi)
