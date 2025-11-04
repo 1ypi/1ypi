@@ -1,8 +1,5 @@
 
 <div align="center">
-<a href="https://github.com/1ypi">
-<img src="https://raw.githubusercontent.com/1ypi/1ypi/main/1ypi.gif" width="600" />
-</a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/1ypi?label=Follow&style=social)](https://github.com/1ypi)
 [![GitHub Stars](https://img.shields.io/github/stars/1ypi?style=social)](https://github.com/1ypi)
@@ -11,6 +8,23 @@
 
 
 
+
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snake gif](https://raw.githubusercontent.com/1ypi/1ypi/8c83da5fb2debdd9aed1de9f986017b441d4a365/github-snake-dark.svg) | 
+
+
+
+<div align="Center">
+
+| 1ypi's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![1ypi's Stats](https://github-readme-stats.vercel.app/api?username=1ypi&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ypi&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![1ypi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ypi&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 <div align="Center">
 <h1>Skills</h1>
 </div>
@@ -36,23 +50,6 @@
 
 <br>
 <br>
-
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snake gif](https://raw.githubusercontent.com/1ypi/1ypi/8c83da5fb2debdd9aed1de9f986017b441d4a365/github-snake-dark.svg) | 
-
-
-
-<div align="Center">
-
-| 1ypi's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![1ypi's Stats](https://github-readme-stats.vercel.app/api?username=1ypi&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ypi&theme=onedark&hide_border=true) 
-
-| Most Lang |
-| ----------|
-| ![1ypi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ypi&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
 
 </div>
 
