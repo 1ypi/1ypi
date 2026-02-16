@@ -21,7 +21,7 @@
 | Ultimate Streak |
 
 
-| ![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ypi&theme=onedark&hide_border=true) 
+![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ypi&theme=onedark&hide_border=true) 
 
 <div align="Center">
 <h1>Skills</h1>
