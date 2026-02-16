@@ -18,13 +18,10 @@
 
 <div align="Center">
 
-| 1ypi's Stats | Ultimate Streak |
+| Ultimate Streak |
 | ------------- | ------------- |
-| ![1ypi's Stats](https://github-readme-stats.vercel.app/api?username=1ypi&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ypi&theme=onedark&hide_border=true) 
+| ![1ypi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1ypi&theme=onedark&hide_border=true) 
 
-| Most Lang |
-| ----------|
-| ![1ypi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1ypi&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 <div align="Center">
 <h1>Skills</h1>
 </div>
