@@ -2,7 +2,6 @@
 <div align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/1ypi?label=Follow&style=social)](https://github.com/1ypi)
-[![GitHub Stars](https://img.shields.io/github/stars/1ypi?style=social)](https://github.com/1ypi)
 </div>
 
 
@@ -31,7 +30,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py,cpp,c"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
 </div>
 
