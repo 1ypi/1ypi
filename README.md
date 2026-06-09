@@ -55,9 +55,5 @@
 
 <div align="Center">
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/](https://discord.com/users/1275055573800452098)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
-
 </div>
 
